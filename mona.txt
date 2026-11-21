@@ -1,0 +1,4 @@
+Mona 2 19.73
+Galib 8 25.89
+Talib 6 18.2
+Sadi 9 32.15
